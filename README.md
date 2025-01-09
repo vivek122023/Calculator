@@ -1,2 +1,2 @@
 # Calculator
-Calculator using only HTML, CSS, and JavaScript.
+Calculator project using only HTML, CSS, and JavaScript.
